@@ -7,7 +7,7 @@
 ![git_hub_joel](https://user-images.githubusercontent.com/42357328/211663904-4bff9abd-c9ef-42ec-aeec-ea3b7aad8be1.png)
     <h4><a href="https://joelbuenocoaching.com.br/wp/">Clique e veja o site</a></h4></br>
     
-![git_hub_joel](https://user-images.githubusercontent.com/42357328/211663904-4bff9abd-c9ef-42ec-aeec-ea3b7aad8be1.png)
+![git_hub_drkleber](https://user-images.githubusercontent.com/42357328/211679893-862f7a86-b2e4-464b-8911-4b0eddc2594f.png)
     <h4><a href="https://drkleberinfecto.com.br/">Clique e veja o site</a></h4></br>
   
  
