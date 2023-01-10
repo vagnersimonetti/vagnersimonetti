@@ -21,7 +21,7 @@
  <h4>Projetos especiais</h4></br>
 
 ![github_capm_inse](https://user-images.githubusercontent.com/42357328/211684554-74c4ed2f-cc66-4d88-b04e-00912fdbda7c.png)
- <h4>Campanha de insentivo</h4></br>
+ <h4>Campanha de incentivo</h4></br>
  
 
 
