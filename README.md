@@ -1,4 +1,4 @@
-<h1>Portifólio<h1>
+#Portifólio
 
 
 ![git_hub_decisao](https://user-images.githubusercontent.com/42357328/211663513-39caf983-612f-437e-bea6-4c3c22bb9ec4.png)
@@ -25,7 +25,7 @@
  
  https://user-images.githubusercontent.com/42357328/211687675-7b087826-f6f0-4cd4-ae27-660a33bbbf7e.mp4
   <h4>Video Gerenteimob</h4></br>
-  <span aling=c"center">
+  <span aling="center">
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagner-simonetti-70919634/)
  </span>
 
