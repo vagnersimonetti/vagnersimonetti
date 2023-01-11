@@ -9,12 +9,11 @@
 
     
 ![git_hub_drkleber](https://user-images.githubusercontent.com/42357328/211679893-862f7a86-b2e4-464b-8911-4b0eddc2594f.png)
-  <a href="https://drkleberinfecto.com.br/">Clique e veja o site</a></br>
   [Clique e veja o site](https://drkleberinfecto.com.br/)</br>
   
     
 ![post_git_dissei](https://user-images.githubusercontent.com/42357328/211684921-41c4907e-5d78-42ef-82bd-4e2c09d484dc.png)
-  [Clique e veja o site](ttps://www.dissei.com.br/)</br>
+  [Clique e veja o site](https://www.dissei.com.br/)</br>
     
   
  ![itapi](https://user-images.githubusercontent.com/42357328/211682637-7149c8eb-1b40-4c10-a271-d3280fcebbc4.png)
