@@ -27,8 +27,7 @@
 ###### Video Gerenteimob</br>
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagner-simonetti-70919634/)
-
-<p>Confira o <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>.</p>
+[LINK1](https://www.freecodecamp.org/")
 
 
 
