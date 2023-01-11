@@ -5,7 +5,7 @@
 </div>
 
 # Portifólio
- 
+ <div>
 ![git_hub_decisao](https://user-images.githubusercontent.com/42357328/211663513-39caf983-612f-437e-bea6-4c3c22bb9ec4.png)
 [Clique e veja o site](https://decisaoconsultoria.com.br/wp/)</br>
 
@@ -16,7 +16,7 @@
     
 ![git_hub_drkleber](https://user-images.githubusercontent.com/42357328/211679893-862f7a86-b2e4-464b-8911-4b0eddc2594f.png)
   [Clique e veja o site](https://drkleberinfecto.com.br/)</br>
-  
+  </div>
     
 ![post_git_dissei](https://user-images.githubusercontent.com/42357328/211684921-41c4907e-5d78-42ef-82bd-4e2c09d484dc.png)
   [Clique e veja o site](https://www.dissei.com.br/)</br>
