@@ -36,8 +36,9 @@
  https://user-images.githubusercontent.com/42357328/211687675-7b087826-f6f0-4cd4-ae27-660a33bbbf7e.mp4
 ###### Video Gerenteimob</br>
 
+<p align="center">
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagner-simonetti-70919634/)
-
+</p>
 
 
 
