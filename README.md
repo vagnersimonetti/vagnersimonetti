@@ -1,5 +1,12 @@
 # Portifólio
 
+![git_hub_decisao](https://user-images.githubusercontent.com/42357328/211663513-39caf983-612f-437e-bea6-4c3c22bb9ec4.png)
+
+[Clique e veja o site](https://decisaoconsultoria.com.br/wp/)
+
+
+
+
 
 ![git_hub_decisao](https://user-images.githubusercontent.com/42357328/211663513-39caf983-612f-437e-bea6-4c3c22bb9ec4.png)
 <a href="https://decisaoconsultoria.com.br/wp/">Clique e veja o site</a></br>
@@ -27,7 +34,7 @@
 ###### Video Gerenteimob</br>
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagner-simonetti-70919634/)
-[LINK1](https://www.freecodecamp.org/")
+
 
 
 
