@@ -1,23 +1,20 @@
 # Portifólio
 
 ![git_hub_decisao](https://user-images.githubusercontent.com/42357328/211663513-39caf983-612f-437e-bea6-4c3c22bb9ec4.png)
-[#### Clique e veja o site](https://decisaoconsultoria.com.br/wp/)</br>
+[Clique e veja o site](https://decisaoconsultoria.com.br/wp/)</br>
 
-
-
-
-
-![git_hub_decisao](https://user-images.githubusercontent.com/42357328/211663513-39caf983-612f-437e-bea6-4c3c22bb9ec4.png)
-<a href="https://decisaoconsultoria.com.br/wp/">Clique e veja o site</a></br>
   
 ![git_hub_joel](https://user-images.githubusercontent.com/42357328/211663904-4bff9abd-c9ef-42ec-aeec-ea3b7aad8be1.png)
-    <a href="https://joelbuenocoaching.com.br/wp/">Clique e veja o site</a></br>
+[Clique e veja o site](https://joelbuenocoaching.com.br/wp/)</br>
+
     
 ![git_hub_drkleber](https://user-images.githubusercontent.com/42357328/211679893-862f7a86-b2e4-464b-8911-4b0eddc2594f.png)
   <a href="https://drkleberinfecto.com.br/">Clique e veja o site</a></br>
+  [Clique e veja o site](https://drkleberinfecto.com.br/)</br>
+  
     
 ![post_git_dissei](https://user-images.githubusercontent.com/42357328/211684921-41c4907e-5d78-42ef-82bd-4e2c09d484dc.png)
-  <a href="https://www.dissei.com.br/">Clique e veja o site</a></br>
+  [Clique e veja o site](ttps://www.dissei.com.br/)</br>
     
   
  ![itapi](https://user-images.githubusercontent.com/42357328/211682637-7149c8eb-1b40-4c10-a271-d3280fcebbc4.png)
